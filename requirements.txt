@@ -1,0 +1,6 @@
+anthropic>=0.40
+sqlalchemy>=2.0
+sqlglot>=25
+psycopg2-binary>=2.9
+pandas>=2.1
+pytest>=8
